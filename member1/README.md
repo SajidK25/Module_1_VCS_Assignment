@@ -1,6 +1,4 @@
 # README.md
 
 
-
-## Member 2 update
-
+## Member 3 update
